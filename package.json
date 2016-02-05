@@ -1,0 +1,24 @@
+{
+  "name": "metalsmith-hierarchies",
+  "version": "0.0.1",
+  "description": "A plugin for Metalsmith for consuming and using JSON navigation hierarchies. This plugin is in development.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lrenhrda/metalsmith-hierarchies.git"
+  },
+  "dependencies": {
+    "string": "^3.3.1",
+    "fs-readdir-recursive": "^1.0.0"
+  },
+  "maintainers": [
+    {
+      "name": "Lauren Herda",
+      "email": "lauren@figure53.com"
+    }
+  ],
+  "license": "MIT"
+}
