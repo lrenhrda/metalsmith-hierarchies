@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-hierarchies",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A plugin for Metalsmith for consuming and using JSON navigation hierarchies. This plugin is in development.",
   "main": "lib/index.js",
   "scripts": {
